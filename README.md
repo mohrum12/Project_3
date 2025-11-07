@@ -1,6 +1,6 @@
 # Project_3
 Chinook SQL + pandas
-Overview
+
 This project connects to the Chinook sample SQLite database from a Jupyter notebook, runs a multi-table join to link customers → invoices → invoice lines → tracks → albums, and prints a tidy result: shows first 5 customers, each row shows which track(s) a customer purchased and the album that track belongs to.
 
 # What the Query Does
